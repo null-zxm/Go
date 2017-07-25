@@ -1,0 +1,16 @@
+
+{
+"Receivers":[{
+	"Account": "it__zxm@163.com"
+	
+},{
+	"Account": "826584818@qq.com"
+	
+}],
+"Collectors":[{
+	"Title":"消防栓",
+	"CommType":"tcp",
+	"RemoteIP": "172.16.8.117",
+	"RemotePort": 20011
+}]
+}
